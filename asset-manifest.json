@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.551daf34.chunk.css",
-    "main.js": "/static/js/main.8e84f51f.chunk.js",
-    "main.js.map": "/static/js/main.8e84f51f.chunk.js.map",
+    "main.css": "/static/css/main.92e8cfb3.chunk.css",
+    "main.js": "/static/js/main.c848d5f2.chunk.js",
+    "main.js.map": "/static/js/main.c848d5f2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.716e95cc.js",
     "runtime-main.js.map": "/static/js/runtime-main.716e95cc.js.map",
     "static/js/2.b0bd7de2.chunk.js": "/static/js/2.b0bd7de2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d9c5c7a9.chunk.js": "/static/js/3.d9c5c7a9.chunk.js",
     "static/js/3.d9c5c7a9.chunk.js.map": "/static/js/3.d9c5c7a9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.551daf34.chunk.css.map": "/static/css/main.551daf34.chunk.css.map",
+    "static/css/main.92e8cfb3.chunk.css.map": "/static/css/main.92e8cfb3.chunk.css.map",
     "static/js/2.b0bd7de2.chunk.js.LICENSE.txt": "/static/js/2.b0bd7de2.chunk.js.LICENSE.txt",
     "static/media/app.layout.scss": "/static/media/nvaccess.4ee01e2f.png",
     "static/media/app.initialize.css": "/static/media/klavikamedium-italic-webfont.eaff8858.woff"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.716e95cc.js",
     "static/js/2.b0bd7de2.chunk.js",
-    "static/css/main.551daf34.chunk.css",
-    "static/js/main.8e84f51f.chunk.js"
+    "static/css/main.92e8cfb3.chunk.css",
+    "static/js/main.c848d5f2.chunk.js"
   ]
 }
